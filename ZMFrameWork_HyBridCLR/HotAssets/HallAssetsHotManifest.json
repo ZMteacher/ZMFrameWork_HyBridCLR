@@ -1,0 +1,96 @@
+{
+  "updateNotice": "输入本次热更描述...",
+  "downLoadURL": "http://192.168.2.74/HotAssets/Hall/1/Android",
+  "hotAssetsPatchList": [
+    {
+      "patchVersion": 1,
+      "hotAssetsList": [
+        {
+          "abName": "Android",
+          "md5": "671C186CD42F55F4F9D20F8579C37C01",
+          "size": 2.02832031
+        },
+        {
+          "abName": "hallbundleconfig",
+          "md5": "85675744200B1EE083721F31F6391575",
+          "size": 3.32226563
+        },
+        {
+          "abName": "hall_examplewindow",
+          "md5": "7D76F19E26948B54CC7876EE3765C174",
+          "size": 9.869141
+        },
+        {
+          "abName": "hall_examplewindow 1",
+          "md5": "AD5F1227F6A565C97F71B7089DE3C835",
+          "size": 484.681641
+        },
+        {
+          "abName": "hall_exshopitem",
+          "md5": "8D0899D17FB9C7732759B0CD87788F24",
+          "size": 4.381836
+        },
+        {
+          "abName": "hall_exshopwindow",
+          "md5": "8038CCF367CFFB231AF8FCA595F87ED0",
+          "size": 13.5976563
+        },
+        {
+          "abName": "hall_hall",
+          "md5": "3AD715B20A0F2C96C6C05C126298BC64",
+          "size": 968.477539
+        },
+        {
+          "abName": "hall_halldata",
+          "md5": "18D8129A6B8AEFE7B02F866DD807AAE6",
+          "size": 2.16894531
+        },
+        {
+          "abName": "hall_hallwindow",
+          "md5": "BF94334E7629377CDC29149D67754663",
+          "size": 22.80664
+        },
+        {
+          "abName": "hall_loading",
+          "md5": "876B4946CC6DFADCC0F8EAC0C1EF265C",
+          "size": 238.334961
+        },
+        {
+          "abName": "hall_login",
+          "md5": "EFB3BF3A5F8650C20009554F17AA472B",
+          "size": 1109.41211
+        },
+        {
+          "abName": "hall_loginpanel",
+          "md5": "A33E9CA3390F91946D456AE1319092A9",
+          "size": 3.66699219
+        },
+        {
+          "abName": "hall_loginwindow",
+          "md5": "035EEA892241B4476F4B56BF9A06B79D",
+          "size": 13.8369141
+        },
+        {
+          "abName": "hall_shop",
+          "md5": "E894AC7A608B586707836ED345E11BA0",
+          "size": 155.298828
+        },
+        {
+          "abName": "hall_testobj",
+          "md5": "6E28976AFBED375FE7B3E5E61F702492",
+          "size": 3.61132813
+        },
+        {
+          "abName": "hall_testwindow",
+          "md5": "F3998D671F90E57487599F8DCE3877C2",
+          "size": 13.8369141
+        },
+        {
+          "abName": "hall_testwindow_2",
+          "md5": "E7E9C29ACDB313FB43B96E3668FDD3C8",
+          "size": 13.8339844
+        }
+      ]
+    }
+  ]
+}

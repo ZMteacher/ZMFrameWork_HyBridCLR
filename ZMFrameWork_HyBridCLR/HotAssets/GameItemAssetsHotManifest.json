@@ -1,0 +1,101 @@
+{
+  "updateNotice": "输入本次热更描述...",
+  "downLoadURL": "http://192.168.1.104/HotAssets/GameItem/1/StandaloneWindows64",
+  "hotAssetsPatchList": [
+    {
+      "patchVersion": 1,
+      "hotAssetsList": [
+        {
+          "abName": "gameitembundleconfig",
+          "md5": "B897A481F2C07413937CCB030EB05CFC",
+          "size": 3.0
+        },
+        {
+          "abName": "gameitem_6001",
+          "md5": "37D45D729CC14EB1E87F89CE97388B57",
+          "size": 528.334961
+        },
+        {
+          "abName": "gameitem_6002",
+          "md5": "905A28893281C9E9DAA967344AA2C10D",
+          "size": 536.9004
+        },
+        {
+          "abName": "gameitem_6003",
+          "md5": "B212913CB08BA72C5C8815C6CCC09235",
+          "size": 509.084961
+        },
+        {
+          "abName": "gameitem_6004",
+          "md5": "C81B27A08B8FD2AB933D2ADF52300DE2",
+          "size": 492.8496
+        },
+        {
+          "abName": "gameitem_6005",
+          "md5": "4B9AB020E27906CF2F2127926972ADDD",
+          "size": 494.155273
+        },
+        {
+          "abName": "gameitem_6006",
+          "md5": "434BFF74C9F5BA6180B7B87EF167C507",
+          "size": 492.7207
+        },
+        {
+          "abName": "gameitem_6007",
+          "md5": "65B4161FF98F98FA42BC1D25E007C581",
+          "size": 471.677734
+        },
+        {
+          "abName": "gameitem_6008",
+          "md5": "376707ACBD735E24D6110B5281576D47",
+          "size": 471.7119
+        },
+        {
+          "abName": "gameitem_6009",
+          "md5": "1780A4F6EAE97FDD59B7592605C2DD8E",
+          "size": 471.615234
+        },
+        {
+          "abName": "gameitem_6010",
+          "md5": "053F68B2F2EB655201A7D1B617679CD8",
+          "size": 471.629883
+        },
+        {
+          "abName": "gameitem_6011",
+          "md5": "91ED394C933412FB57DD87E7D4D98D5C",
+          "size": 486.90918
+        },
+        {
+          "abName": "gameitem_6012",
+          "md5": "6562D413C4685E7851882C96FDFFDE2D",
+          "size": 520.319336
+        },
+        {
+          "abName": "gameitem_6013",
+          "md5": "911E7987DF3E68F9CA769BFCCD15DF80",
+          "size": 510.251953
+        },
+        {
+          "abName": "gameitem_6014",
+          "md5": "48181342D855E5CEE2B0127B9FD46F67",
+          "size": 517.9121
+        },
+        {
+          "abName": "gameitem_6015",
+          "md5": "25F7D7C22BE649BFEF849C4DF8B68F1D",
+          "size": 505.763672
+        },
+        {
+          "abName": "gameitem_6016",
+          "md5": "840BB860A871A56AD96523899C1F2FB0",
+          "size": 494.8828
+        },
+        {
+          "abName": "StandaloneWindows64",
+          "md5": "21E536798F4FF7BCB94E1884BEF32826",
+          "size": 1.98046875
+        }
+      ]
+    }
+  ]
+}
