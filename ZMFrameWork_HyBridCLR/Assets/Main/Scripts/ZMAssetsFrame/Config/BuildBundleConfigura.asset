@@ -16,7 +16,7 @@ MonoBehaviour:
   - bundleid: 0
     moduleName: Hall
     isBuild: 0
-    lastClickBtnTime: 266.7821
+    lastClickBtnTime: 509.19
     prefabPathArr:
     - Assets/GameData/Hall/Prefabs
     rootFolderPathArr:
@@ -24,104 +24,32 @@ MonoBehaviour:
     signFolderPathArr:
     - abName: hallData
       bundlePath: Assets/GameData/Hall/CfgData
-  - bundleid: 0
-    moduleName: Majiang
-    isBuild: 0
-    lastClickBtnTime: 153.24695
-    prefabPathArr:
-    - Assets/GameData/Majiang/Prefab
-    rootFolderPathArr:
-    - Assets/GameData/Majiang/Textures
-    signFolderPathArr: []
-  - bundleid: 0
-    moduleName: NiuNiu
-    isBuild: 0
-    lastClickBtnTime: 154.11859
-    prefabPathArr:
-    - Assets/GameData/NiuNiu/Prefab
-    rootFolderPathArr:
-    - Assets/GameData/NiuNiu/Textures
-    signFolderPathArr: []
-  - bundleid: 0
-    moduleName: ShiSanShui
-    isBuild: 0
-    lastClickBtnTime: 154.38255
-    prefabPathArr:
-    - Assets/GameData/ShiSanShui/Prefab
-    rootFolderPathArr:
-    - Assets/GameData/ShiSanShui/Textures
-    signFolderPathArr: []
+    - abName: hotdll
+      bundlePath: Assets/GameData/Hall/DLL
   - bundleid: 0
     moduleName: ShuangKou
     isBuild: 0
-    lastClickBtnTime: 154.9712
+    lastClickBtnTime: 455.8992
     prefabPathArr:
     - Assets/GameData/ShuangKou/Prefabs
     rootFolderPathArr:
     - Assets/GameData/ShuangKou/Textures
     signFolderPathArr: []
   - bundleid: 0
-    moduleName: WuZhang
-    isBuild: 0
-    lastClickBtnTime: 157.91405
-    prefabPathArr:
-    - Assets/GameData/WuZhang/Prefab
-    rootFolderPathArr:
-    - Assets/GameData/WuZhang/Textures
-    signFolderPathArr: []
-  - bundleid: 0
-    moduleName: Game
-    isBuild: 0
-    lastClickBtnTime: 271.10895
-    prefabPathArr:
-    - Assets/GameData/GameItem
-    rootFolderPathArr:
-    - Assets/GameData/GameItem
-    signFolderPathArr: []
-  - bundleid: 0
     moduleName: GameItem
     isBuild: 0
-    lastClickBtnTime: 153.85832
+    lastClickBtnTime: 437.98492
     prefabPathArr: []
     rootFolderPathArr:
     - Assets/GameData/GameItem
     signFolderPathArr: []
   - bundleid: 0
-    moduleName: Test
-    isBuild: 0
-    lastClickBtnTime: 154.6542
-    prefabPathArr:
-    - Assets/GameData/YZT/Prefabs
-    rootFolderPathArr:
-    - Assets/GameData/YZT/Textures
-    signFolderPathArr: []
-  - bundleid: 0
-    moduleName: Fish3d
-    isBuild: 0
-    lastClickBtnTime: 155.25923
-    prefabPathArr:
-    - Assets/GameData/Hall/Prefabs
-    rootFolderPathArr:
-    - Assets/GameData/Hall/Textures
-    signFolderPathArr:
-    - abName: cfgdata
-      bundlePath: Assets/BundleDemo/Hall/Data
-  - bundleid: 0
     moduleName: DLL
     isBuild: 0
-    lastClickBtnTime: 155.52913
+    lastClickBtnTime: 431.7393
     prefabPathArr:
     - Path...
     rootFolderPathArr: []
     signFolderPathArr:
     - abName: DLL
       bundlePath: Assets/GameData/DLL
-  - bundleid: 0
-    moduleName: YZT
-    isBuild: 0
-    lastClickBtnTime: 266.4453
-    prefabPathArr:
-    - Assets/GameData/YZT/Prefabs
-    rootFolderPathArr:
-    - Assets/GameData/YZT/Textures
-    signFolderPathArr: []

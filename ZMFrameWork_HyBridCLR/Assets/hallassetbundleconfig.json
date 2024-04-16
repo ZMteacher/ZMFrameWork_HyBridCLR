@@ -5,52 +5,13 @@
       "crc": 3082594063,
       "bundleName": "hall_examplewindow",
       "assetName": "ExampleWindow.prefab",
-      "bundleDependce": [
-        "hall_examplewindow 1"
-      ]
+      "bundleDependce": []
     },
     {
       "path": "Assets/GameData/Hall/Prefabs/Window/ExampleWindow 1.prefab",
       "crc": 3594113686,
       "bundleName": "hall_examplewindow 1",
       "assetName": "ExampleWindow 1.prefab",
-      "bundleDependce": [
-        "hall_examplewindow 1"
-      ]
-    },
-    {
-      "path": "Assets/GameData/YZT/Textures/BG.jpg",
-      "crc": 4103100208,
-      "bundleName": "hall_examplewindow 1",
-      "assetName": "BG.jpg",
-      "bundleDependce": []
-    },
-    {
-      "path": "Assets/GameData/YZT/Textures/Cut Frame Filled Big 1.png",
-      "crc": 4121347539,
-      "bundleName": "hall_examplewindow 1",
-      "assetName": "Cut Frame Filled Big 1.png",
-      "bundleDependce": []
-    },
-    {
-      "path": "Assets/GameData/YZT/Textures/矩形 1.png",
-      "crc": 2485288,
-      "bundleName": "hall_examplewindow 1",
-      "assetName": "矩形 1.png",
-      "bundleDependce": []
-    },
-    {
-      "path": "Assets/GameData/YZT/Textures/返回.png",
-      "crc": 3693269915,
-      "bundleName": "hall_examplewindow 1",
-      "assetName": "返回.png",
-      "bundleDependce": []
-    },
-    {
-      "path": "Assets/Main/Scripts/ZMUIFrameWork/Texture/tinyButton_Decline.png",
-      "crc": 1598990382,
-      "bundleName": "hall_examplewindow 1",
-      "assetName": "tinyButton_Decline.png",
       "bundleDependce": []
     },
     {
@@ -68,7 +29,6 @@
       "bundleName": "hall_exshopwindow",
       "assetName": "ExShopWindow.prefab",
       "bundleDependce": [
-        "hall_examplewindow 1",
         "hall_shop"
       ]
     },
@@ -232,9 +192,36 @@
       "bundleName": "hall_hallwindow",
       "assetName": "HallWindow.prefab",
       "bundleDependce": [
-        "hall_hall",
-        "hall_examplewindow 1"
+        "hall_hall"
       ]
+    },
+    {
+      "path": "Assets/GameData/Hall/DLL/HotUpdate.dll.bytes",
+      "crc": 4125627086,
+      "bundleName": "hall_hotdll",
+      "assetName": "HotUpdate.dll.bytes",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/DLL/mscorlib.dll.bytes",
+      "crc": 2436895163,
+      "bundleName": "hall_hotdll",
+      "assetName": "mscorlib.dll.bytes",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/DLL/System.Core.dll.bytes",
+      "crc": 3903788479,
+      "bundleName": "hall_hotdll",
+      "assetName": "System.Core.dll.bytes",
+      "bundleDependce": []
+    },
+    {
+      "path": "Assets/GameData/Hall/DLL/System.dll.bytes",
+      "crc": 174199428,
+      "bundleName": "hall_hotdll",
+      "assetName": "System.dll.bytes",
+      "bundleDependce": []
     },
     {
       "path": "Assets/GameData/Hall/Textures/Loading/LoginButton.png",

@@ -164,6 +164,7 @@ namespace ZM.AssetFrameWork
 
             }
             OnHotFinishAction?.Invoke();
+            mHotAssetsWindow.gameObject.SetActive(false);
             GameObject.Destroy(mHotAssetsWindow.gameObject);
         }
         public void LoadGameConfig()
@@ -172,6 +173,7 @@ namespace ZM.AssetFrameWork
         }
         public T InstantiateResourcesObj<T>(string prefabName)
         {
+ 
            return  GameObject.Instantiate<GameObject>(Resources.Load<GameObject>(prefabName)).GetComponent<T>();
         }
     }

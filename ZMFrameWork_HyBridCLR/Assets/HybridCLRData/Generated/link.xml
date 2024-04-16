@@ -8,23 +8,19 @@
     <type fullname="ZM.AssetFrameWork.AssetsRequest" preserve="all" />
     <type fullname="ZM.AssetFrameWork.BundleModuleEnum" preserve="all" />
     <type fullname="ZM.AssetFrameWork.HotAssetsModule" preserve="all" />
+    <type fullname="ZM.AssetFrameWork.HotUpdateManager" preserve="all" />
+    <type fullname="ZM.AssetFrameWork.MonoSingleton`1" preserve="all" />
     <type fullname="ZM.AssetFrameWork.ZMAsset" preserve="all" />
     <type fullname="ZM.AssetFrameWork.ZMFrameBase" preserve="all" />
   </assembly>
   <assembly fullname="System">
     <type fullname="System.Collections.Generic.Queue`1" preserve="all" />
-    <type fullname="System.ComponentModel.DefaultValueAttribute" preserve="all" />
-  </assembly>
-  <assembly fullname="UnityEngine.AudioModule">
-    <type fullname="UnityEngine.AudioClip" preserve="all" />
-    <type fullname="UnityEngine.AudioSource" preserve="all" />
   </assembly>
   <assembly fullname="UnityEngine.CoreModule">
     <type fullname="UnityEngine.Application" preserve="all" />
     <type fullname="UnityEngine.AsyncOperation" preserve="all" />
     <type fullname="UnityEngine.Camera" preserve="all" />
     <type fullname="UnityEngine.Component" preserve="all" />
-    <type fullname="UnityEngine.Coroutine" preserve="all" />
     <type fullname="UnityEngine.Debug" preserve="all" />
     <type fullname="UnityEngine.Events.UnityAction" preserve="all" />
     <type fullname="UnityEngine.Events.UnityAction`1" preserve="all" />
@@ -33,16 +29,12 @@
     <type fullname="UnityEngine.Events.UnityEventBase" preserve="all" />
     <type fullname="UnityEngine.Events.UnityEvent`1" preserve="all" />
     <type fullname="UnityEngine.GameObject" preserve="all" />
-    <type fullname="UnityEngine.KeyCode" preserve="all" />
-    <type fullname="UnityEngine.Mathf" preserve="all" />
     <type fullname="UnityEngine.MonoBehaviour" preserve="all" />
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Quaternion" preserve="all" />
     <type fullname="UnityEngine.Random" preserve="all" />
     <type fullname="UnityEngine.RectTransform" preserve="all" />
-    <type fullname="UnityEngine.ResourceRequest" preserve="all" />
     <type fullname="UnityEngine.Resources" preserve="all" />
-    <type fullname="UnityEngine.SceneManagement.SceneManager" preserve="all" />
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.TextAsset" preserve="all" />
     <type fullname="UnityEngine.Texture" preserve="all" />
@@ -52,16 +44,7 @@
     <type fullname="UnityEngine.Vector3" preserve="all" />
     <type fullname="UnityEngine.WaitForSeconds" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.InputLegacyModule">
-    <type fullname="UnityEngine.Input" preserve="all" />
-  </assembly>
   <assembly fullname="UnityEngine.UI">
-    <type fullname="UnityEngine.EventSystems.BaseEventData" preserve="all" />
-    <type fullname="UnityEngine.EventSystems.EventTrigger" preserve="all" />
-    <type fullname="UnityEngine.EventSystems.EventTrigger/Entry" preserve="all" />
-    <type fullname="UnityEngine.EventSystems.EventTrigger/TriggerEvent" preserve="all" />
-    <type fullname="UnityEngine.EventSystems.EventTriggerType" preserve="all" />
-    <type fullname="UnityEngine.EventSystems.UIBehaviour" preserve="all" />
     <type fullname="UnityEngine.UI.Button" preserve="all" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="all" />
     <type fullname="UnityEngine.UI.Image" preserve="all" />
@@ -90,13 +73,10 @@
     <type fullname="System.Boolean" preserve="all" />
     <type fullname="System.Collections.Generic.Dictionary`2" preserve="all" />
     <type fullname="System.Collections.Generic.Dictionary`2/Enumerator" preserve="all" />
-    <type fullname="System.Collections.Generic.IEnumerator`1" preserve="all" />
     <type fullname="System.Collections.Generic.KeyValuePair`2" preserve="all" />
     <type fullname="System.Collections.Generic.List`1" preserve="all" />
     <type fullname="System.Collections.Generic.List`1/Enumerator" preserve="all" />
-    <type fullname="System.Collections.IEnumerator" preserve="all" />
     <type fullname="System.Comparison`1" preserve="all" />
-    <type fullname="System.Delegate" preserve="all" />
     <type fullname="System.Diagnostics.DebuggableAttribute" preserve="all" />
     <type fullname="System.Diagnostics.DebuggableAttribute/DebuggingModes" preserve="all" />
     <type fullname="System.Diagnostics.DebuggerHiddenAttribute" preserve="all" />
@@ -107,7 +87,6 @@
     <type fullname="System.Int32" preserve="all" />
     <type fullname="System.Int64" preserve="all" />
     <type fullname="System.MulticastDelegate" preserve="all" />
-    <type fullname="System.NotSupportedException" preserve="all" />
     <type fullname="System.Object" preserve="all" />
     <type fullname="System.Reflection.Assembly" preserve="all" />
     <type fullname="System.Reflection.AssemblyName" preserve="all" />
@@ -118,14 +97,12 @@
     <type fullname="System.Runtime.CompilerServices.CompilerGeneratedAttribute" preserve="all" />
     <type fullname="System.Runtime.CompilerServices.ExtensionAttribute" preserve="all" />
     <type fullname="System.Runtime.CompilerServices.IAsyncStateMachine" preserve="all" />
-    <type fullname="System.Runtime.CompilerServices.IteratorStateMachineAttribute" preserve="all" />
     <type fullname="System.Runtime.CompilerServices.RuntimeCompatibilityAttribute" preserve="all" />
     <type fullname="System.Runtime.CompilerServices.TaskAwaiter" preserve="all" />
     <type fullname="System.Runtime.CompilerServices.TaskAwaiter`1" preserve="all" />
     <type fullname="System.RuntimeTypeHandle" preserve="all" />
     <type fullname="System.Single" preserve="all" />
     <type fullname="System.String" preserve="all" />
-    <type fullname="System.Threading.Interlocked" preserve="all" />
     <type fullname="System.Threading.Tasks.Task" preserve="all" />
     <type fullname="System.Threading.Tasks.Task`1" preserve="all" />
     <type fullname="System.Type" preserve="all" />
