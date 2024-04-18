@@ -14,18 +14,14 @@ public class Main : MonoBehaviour
  
     private void Awake()
     {
+        Debug.Log("初始化资源框架...");
         //初始化游戏热更框架
         ZMAsset.Instance.InitFrameWork();
-        Debug.Log(Application.persistentDataPath);
-    }
-
-    void Start()
-    {
+        Debug.Log("资源框架初始化成功 准备热更大厅资源...");
         //热更大厅资源
         HotUpdateManager.Instance.HotAndUnPackAssets(BundleModuleEnum.Hall, StartGame);
-
     }
-  
+ 
     private static List<string> AOTMetaAssemblyFiles { get; } = new List<string>()
     {
         //AOT

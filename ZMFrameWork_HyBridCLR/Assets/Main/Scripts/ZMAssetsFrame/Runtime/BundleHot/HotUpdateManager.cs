@@ -173,7 +173,7 @@ namespace ZM.AssetFrameWork
         }
         public T InstantiateResourcesObj<T>(string prefabName)
         {
- 
+            Debug.Log("InstantiateResourcesObj:"+prefabName);
            return  GameObject.Instantiate<GameObject>(Resources.Load<GameObject>(prefabName)).GetComponent<T>();
         }
     }
